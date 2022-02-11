@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# 云上迦南常见问题解答
 
-You can use the [editor on GitHub](https://github.com/dd-oss/ysjn.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+标签（空格分隔）： Zoom 常见问题 直播会议
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+[TOC]
 
-### Markdown
+---
+### **1. 声音画面卡顿怎么办？**
+1. 离路由器**`WiFi`**近一点；
+2. 改用手机**`数据流量`**网络；
+3. 离开会议室重新进入。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+### **2. 听不到声音怎么办？**
+1. 手机屏幕左下角点击**`连接语音`**→点击**`WIFI或蜂窝数据`**（或**`通过设备语音呼叫`**）就有声音了。
+2. 调节自己的设备音频加大音量。
+3. 检查屏幕左上角的**`喇叭图标`**，看上面是否有一条斜划线（表示已静音），点一下即可关闭静音。
+3. 如果是用手机登入，主持人共享(视频)屏幕时把手机屏幕滑到**``共享屏幕``**界面就有声音了。
+4. 如果**WiFi**或**移动网络**不好时，请试着移动设备到网络信号更强的地方
+5. 可以尝试重新进入会议室
+6. 可以尝试戴上耳机
 
-# Header 1
-## Header 2
-### Header 3
+---
+### **3. 怎样分享给亲朋好友？**
+将下面的海报图片保存后<i class="icon-share"></i>分享转发出去
+![](https://pic.imgdb.cn/item/620069f42ab3f51d9164cea4.jpg)
 
-- Bulleted
-- List
+还可以[点击此处打开直播地址](https://m.inmuu.com/v1/live/news/1621123)，或复制下面的直播地址，然后<i class="icon-share"></i>分享转发出去。
 
-1. Numbered
-2. List
+    https://m.inmuu.com/v1/live/news/1621123
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+### **4. 在哪里看回放？**
+[点击此处打开回放地址](https://m.inmuu.com/v1/live/news/1621123)，或复制下面的回放地址（建议收藏或<i class="icon-share"></i>转发给自己的微信等保存）。
+  
+     https://m.inmuu.com/v1/live/news/1621123
+ 
+---
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### **5. 怎样联系、加入你们？**
 
-### Jekyll Themes
+微信中搜索并关注**`全球善商`**公众号，进香柏读者群
+**香柏同工防失联二维码：**
+![香柏同工防失联二维码](https://pic.imgdb.cn/item/61c461672ab3f51d91a43a0c.jpg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dd-oss/ysjn.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+### **6. 好听的诗歌哪里下载？**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+请大家注意看我们的回放，以及我们的全球善商公众号，我们会发布相关节目的信息。
