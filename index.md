@@ -17,7 +17,7 @@
 ---
 ### **3. 怎样分享给亲朋好友？**
 将下面的海报图片保存后<i class="icon-share"></i>分享转发出去
-![](https://pic.imgdb.cn/item/620069f42ab3f51d9164cea4.jpg)
+![](初一.jpg)
 
 还可以[点击此处打开直播地址](https://m.inmuu.com/v1/live/news/1621123)，或复制下面的直播地址，然后<i class="icon-share"></i>分享转发出去。
 
